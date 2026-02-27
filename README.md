@@ -2,7 +2,6 @@
 I'm currently working on Mongo DB, AWS architecture.<br>I'm looking to collaborate on creating a review website for every product as well as companies<br>I'm currently learning DSA, Web Development.<br>Fun-Fact:The platypus (Ornithorhynchus anatinus) is a unique, egg-laying mammal native to Australia that uses electroreception to hunt underwater, often mistaken for a reptile or bird due to its duck-like bill, beaver-like tail, and venomous spurs on males. These "living fossils" are nocturnal,, have no stomachs, and glow under UV light. 
 
 
-## 🌐 Socials:
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -15,7 +14,7 @@ I'm currently working on Mongo DB, AWS architecture.<br>I'm looking to collabora
   <a href="https://www.linkedin.com/in/kashif-md-84b1192ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://pinterest.com/nyope">
+  <a href="https://pin.it/1EXDZkL85">
     <img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white"/>
   </a>
   <a href="mailto:mdkashif87627@gmail.com">
