@@ -14,11 +14,11 @@ Fun-Fact:The platypus (Ornithorhynchus anatinus) is a unique, egg-laying mammal 
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/kashif87627-tfafk/kashif87627-tfafk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-## 📊 Contribution Activity
+## Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashif87627-tfafk&theme=tokyo-night&hide_border=true"/>
 </p>
@@ -48,7 +48,7 @@ Fun-Fact:The platypus (Ornithorhynchus anatinus) is a unique, egg-laying mammal 
 
 ---
 
-# 🚀 Tech Stack:
+# Tech Stack:
 
 <p align="center">
 
@@ -64,7 +64,6 @@ Fun-Fact:The platypus (Ornithorhynchus anatinus) is a unique, egg-laying mammal 
 </p>
 
 ---
-# 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=kashif87627-tfafk&theme=tokyonight&hide_border=false"/>
@@ -72,9 +71,7 @@ Fun-Fact:The platypus (Ornithorhynchus anatinus) is a unique, egg-laying mammal 
 
 
 ---
----
 
-# ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 </p>
