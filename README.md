@@ -1,18 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hiii+I'm+Md+Kashif;Welcome to my github profile" />
 </p>
----
-## 🧊 3D Contribution Calendar
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashif87627-tfafk&theme=tokyonight)
----
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kashif87627-tfafk&theme=tokyonight&hide_border=true"/>
-</p>
----
-## ⏱️ Coding Activity
-![](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight)
----
+
 # 👨‍💻 Md Kashif 
 
 <p align="center">
