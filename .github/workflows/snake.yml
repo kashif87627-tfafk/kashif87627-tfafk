@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Neon Snake Animation
 
 on:
   schedule:
@@ -12,12 +12,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake (Dark Background)
+      - name: Generate Neon Snake (Dark Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: kashif87627-tfafk
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&background=0d1117
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=cyan
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=cyan
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
