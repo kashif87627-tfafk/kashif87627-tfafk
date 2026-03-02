@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hiii+I'm+Md+Kashif;Welcome to my github profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hiii+I'm+Md+Kashif;Welcome+to+my+GitHub+Profile" />
 </p>
 
 # 👨‍💻 Md Kashif 
