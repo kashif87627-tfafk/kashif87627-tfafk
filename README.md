@@ -85,9 +85,6 @@ Fun-Fact:The platypus (Ornithorhynchus anatinus) is a unique, egg-laying mammal 
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kashif87627-tfafk&icon=3&color=10"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
