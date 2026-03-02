@@ -40,3 +40,5 @@ I'm currently working on Mongo DB, AWS architecture.<br>I'm looking to collabora
 <p align="center">
   <img src="https://raw.githubusercontent.com/kashif87627-tfafk/kashif87627-tfafk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+## 📊 3D Contribution Graph
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashif87627-tfafk&theme=github_dark)
