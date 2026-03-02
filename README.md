@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Md+Kashif;Full+Stack+Developer;AWS+%7C+MongoDB+%7C+DSA+Learner;Building+Cool+Projects+🚀" />
+</p>
 # 👨‍💻 Md Kashif 
 
 <p align="center">
@@ -73,13 +76,6 @@ Fun-Fact:The platypus (Ornithorhynchus anatinus) is a unique, egg-laying mammal 
   <br/>
   
 
----
-
-# 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashif87627-tfafk&theme=tokyo-night&hide_border=false"/>
-</p>
 
 ---
 
