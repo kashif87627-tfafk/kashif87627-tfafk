@@ -1,4 +1,4 @@
-# 👨‍💻 Md Kashif | Developer Portfolio
+# 👨‍💻 Md Kashif 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -62,12 +62,10 @@ Fun-Fact:The platypus (Ornithorhynchus anatinus) is a unique, egg-laying mammal 
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashif87627-tfafk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/>
-  <br/>
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=kashif87627-tfafk&theme=tokyonight&hide_border=false"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashif87627-tfafk&theme=tokyonight&hide_border=false&layout=compact"/>
-</p>
+  
 
 ---
 
